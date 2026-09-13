@@ -1,0 +1,8 @@
+# Kaggle datasets
+**/data/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
